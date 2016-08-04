@@ -1,0 +1,33 @@
+_repo: L-homme-Qui-Rit_5423
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5423'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Clowns -- Fiction'
+- !lcsh 'Traveling theater -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Mouth -- Wounds and injuries -- Fiction'
+- !lcsh 'Great Britain -- History -- Anne, 1702-1714 -- Fiction'
+- !lcsh 'Great Britain -- History -- James II, 1685-1688 -- Fiction'
+- GITenberg
+title: L'homme Qui Rit
+url: http://www.gutenberg.org/ebooks/5423
